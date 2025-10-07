@@ -31,10 +31,18 @@ I believe in **continuous learning and technical depth** — understanding *why*
 ## 🛠️ Tech Stack
 
 **Backend:** `C#`, `.NET 8`, `ASP.NET`, `Web API`, `Dapper ORM`  
-**Frontend:** `HTML`, `CSS`, `Bootstrap`  
+**Frontend:** `HTML`, `CSS`, `Bootstrap` , `Angular`
 **Database:** `SQL Server`, `MySQL`  
 **DevOps & Tools:** `Azure DevOps`, `Git`, `Swagger`, `Postman`  
 **Practices:** `Agile/Scrum`, `Unit Testing`, `Clean Code`, `System Design`
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/mrittika-ghosh/)
+- ✉️ [Email](mailto:mrittikaghosh76@gmail.com)
+- 💻 [GitHub Projects](https://github.com/Mrittikaghosh01)
 
 ---
 
@@ -57,18 +65,16 @@ I believe in **continuous learning and technical depth** — understanding *why*
 These certifications helped me strengthen my foundation in **Azure Cloud**, **security principles**, and **modern application development** using cloud-native technologies.
 
 ---
-
-## 📫 Let’s Connect
-
-- 🌍 [LinkedIn](https://www.linkedin.com/in/mrittika-ghosh/)
-- ✉️ [Email](mailto:mrittikaghosh76@gmail.com)
-- 💻 [GitHub Projects](https://github.com/Mrittikaghosh01)
-
----
 ### 💬 Fun Fact  
 When I’m not debugging or fixing SQL joins, I’m probably **exploring street foods of Kolkata** 🍢,  
 **traveling to the mountains** 🏔️, or **listening to tech and self-growth podcasts** 🎧.
 
+---
+
+## 💬 Let’s Build Something Amazing!
+
+If you’re working on an exciting project or need help with **.NET backend development**, **WEB API design**, or **system optimization**,  
+feel free to reach out! I’m always open to discussing new challenges, learning opportunities, or interesting collaborations.
 
 ---
 
