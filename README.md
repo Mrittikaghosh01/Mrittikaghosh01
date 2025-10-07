@@ -3,7 +3,7 @@
 - 🌱 I have completed B.Tech. in Electronics and Communication Engineering from Sur Institute of Technology.
 - 💻 Currently I am working as a Developer in .NET Core Technology.
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me - mrittikaghosh26@gmail.com
+- 📫 How to reach me - mrittikaghosh76@gmail.com
 
 <!---
 Mrittikaghosh01/Mrittikaghosh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
